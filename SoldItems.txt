@@ -154,3 +154,43 @@ Product's Name: Shorts
 Quantity: 1
 Total Price: $250
 -----------------------
+Product's Name: Apple
+Quantity: 1
+Total Price: $30
+-----------------------
+Product's Name: Apple
+Quantity: 1
+Total Price: $30
+-----------------------
+Product's Name: Borgir
+Quantity: 1
+Total Price: $1500
+-----------------------
+Product's Name: Apple
+Quantity: 1
+Total Price: $30
+-----------------------
+Product's Name: Apple
+Quantity: 1
+Total Price: $30
+-----------------------
+Product's Name: Apple
+Quantity: 1
+Total Price: $30
+-----------------------
+Product's Name: Apple
+Quantity: 1
+Total Price: $30
+-----------------------
+Product's Name: Borgir
+Quantity: 1
+Total Price: $1500
+-----------------------
+Product's Name: Borgir
+Quantity: 1
+Total Price: $1500
+-----------------------
+Product's Name: Borgir
+Quantity: 1
+Total Price: $1500
+-----------------------

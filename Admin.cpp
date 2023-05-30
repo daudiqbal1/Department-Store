@@ -101,9 +101,9 @@ void Admin::DeleteProduct() {
         }
 
         // Read products from file
-        ifstream inputFile("Products.txt");
+        ifstream inputFile("products.txt");
         if (!inputFile) {
-            throw runtime_error("Failed to open Products.txt for reading.");
+            throw runtime_error("Failed to open products.txt for reading.");
         }
 
         vector<string> lines;
@@ -122,9 +122,9 @@ void Admin::DeleteProduct() {
         inputFile.close();
 
         // Rewrite the products to the file
-        ofstream outputFile("Products.txt");
+        ofstream outputFile("products.txt");
         if (!outputFile) {
-            throw runtime_error("Failed to open Products.txt for writing.");
+            throw runtime_error("Failed to open products.txt for writing.");
         }
 
         for (const auto& line : lines) {

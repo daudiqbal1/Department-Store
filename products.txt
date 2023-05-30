@@ -6,5 +6,4 @@ Food,Eggs,50,6/10/2023
 Garment,T-Shirt,150,M
 Garment,T-Shirt,180,L
 Garment,Pant,160,M
-Garment,Shorts,250,L
-
+Garment,Shorts,250,L 

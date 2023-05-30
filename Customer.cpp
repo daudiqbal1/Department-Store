@@ -161,8 +161,15 @@ void Customer :: checkout(){
     cout << "Total Price: $" << totalPrice << endl;
 
     // Clear the cart
-    for (auto& product : cart) {
-        delete product;
-    }
+    /*
+    When you checkout and clear cart, you delete each product in the cart.
+    But these same Product pointers are still referenced in garments and foodProducts vecs,
+    and when purchaseProducts() exits and these vectors go out of scope, 
+    they may attempt to delete the already deleted objects, 
+    resulting in undefined behavior, including potential segmentation faults.
+    */
+    // for (auto& product : cart) {
+    //     delete product;
+    // }
     cart.clear();
 };

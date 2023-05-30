@@ -15,6 +15,7 @@ using namespace std;
 int main(){
 
      Admin admin;
+     Customer customer;
 
     while (true) {
         cout << "Menu:" << endl;
@@ -22,7 +23,8 @@ int main(){
         cout << "2. View Sales Report" << endl;
         cout << "3. Add Product" << endl;
         cout << "4. Delete Product" << endl;
-        cout << "5. Exit" << endl;
+        cout << "5. Purchase Products" << endl;
+        cout << "6. Exit" << endl;
         cout << "Enter your choice: ";
 
         int choice;
@@ -42,6 +44,9 @@ int main(){
                 admin.DeleteProduct();
                 return 0;
             case 5:
+                customer.purchaseProducts();
+                return 0;
+            case 6:
                 return 0;
             default:
                 cout << "Invalid choice. Please try again." << endl;
