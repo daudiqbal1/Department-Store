@@ -1,0 +1,10 @@
+Garment,Socks,22,L
+Food,Apple,30,12/13/2023
+Food,Beans,25,6/6/2025
+Food,Rice,40,6/7/2024
+Food,Eggs,50,6/10/2023
+Garment,T-Shirt,150,M
+Garment,T-Shirt,180,L
+Garment,Pant,160,M
+Garment,Shorts,250,L
+

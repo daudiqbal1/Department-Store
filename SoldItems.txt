@@ -1,0 +1,156 @@
+Product's Name: Apples
+Quantity: 1
+Total Price: $3.99
+-----------------------
+Product's Name: Apples
+Quantity: 1
+Total Price: $3.99
+-----------------------
+Product's Name: Apples
+Quantity: 1
+Total Price: $3.99
+-----------------------
+Product's Name: Apples
+Quantity: 1
+Total Price: $3.99
+-----------------------
+Product's Name: Socks
+Quantity: 1
+Total Price: $22
+-----------------------
+Product's Name: Socks
+Quantity: 1
+Total Price: $22
+-----------------------
+Product's Name: Socks
+Quantity: 1
+Total Price: $22
+-----------------------
+Product's Name: Socks
+Quantity: 1
+Total Price: $22
+-----------------------
+Product's Name: Eggs
+Quantity: 1
+Total Price: $50
+-----------------------
+Product's Name: Eggs
+Quantity: 1
+Total Price: $50
+-----------------------
+Product's Name: Eggs
+Quantity: 1
+Total Price: $50
+-----------------------
+Product's Name: Eggs
+Quantity: 1
+Total Price: $50
+-----------------------
+Product's Name: Eggs
+Quantity: 1
+Total Price: $50
+-----------------------
+Product's Name: Eggs
+Quantity: 1
+Total Price: $50
+-----------------------
+Product's Name: Eggs
+Quantity: 1
+Total Price: $50
+-----------------------
+Product's Name: Eggs
+Quantity: 1
+Total Price: $50
+-----------------------
+Product's Name: Eggs
+Quantity: 1
+Total Price: $50
+-----------------------
+Product's Name: Eggs
+Quantity: 1
+Total Price: $50
+-----------------------
+Product's Name: Eggs
+Quantity: 1
+Total Price: $50
+-----------------------
+Product's Name: Eggs
+Quantity: 1
+Total Price: $50
+-----------------------
+Product's Name: Eggs
+Quantity: 1
+Total Price: $50
+-----------------------
+Product's Name: Eggs
+Quantity: 1
+Total Price: $50
+-----------------------
+Product's Name: Eggs
+Quantity: 1
+Total Price: $50
+-----------------------
+Product's Name: Eggs
+Quantity: 1
+Total Price: $50
+-----------------------
+Product's Name: Eggs
+Quantity: 1
+Total Price: $50
+-----------------------
+Product's Name: Eggs
+Quantity: 1
+Total Price: $50
+-----------------------
+Product's Name: Eggs
+Quantity: 1
+Total Price: $50
+-----------------------
+Product's Name: Eggs
+Quantity: 1
+Total Price: $50
+-----------------------
+Product's Name: Eggs
+Quantity: 1
+Total Price: $50
+-----------------------
+Product's Name: Eggs
+Quantity: 1
+Total Price: $50
+-----------------------
+Product's Name: Eggs
+Quantity: 1
+Total Price: $50
+-----------------------
+Product's Name: Eggs
+Quantity: 1
+Total Price: $50
+-----------------------
+Product's Name: Eggs
+Quantity: 1
+Total Price: $50
+-----------------------
+Product's Name: Eggs
+Quantity: 1
+Total Price: $50
+-----------------------
+Product's Name: Eggs
+Quantity: 1
+Total Price: $50
+-----------------------
+Product's Name: Eggs
+Quantity: 1
+Total Price: $50
+-----------------------
+Product's Name: Eggs
+Quantity: 1
+Total Price: $50
+-----------------------
+Product's Name: Eggs
+Quantity: 1
+Total Price: $50
+-----------------------
+Product's Name: Shorts
+Quantity: 1
+Total Price: $250
+-----------------------
